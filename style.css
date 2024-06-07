@@ -1,0 +1,29 @@
+main{
+    background-color: bisque;
+    margin: 0 300px;
+    padding: 0 20px;
+}
+h1{
+    text-align: center;
+    color: blue;
+   
+}
+
+.contact{
+    text-align: center;
+}
+.profile{
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+
+.icons{
+    display: flex;
+   margin: 0px;
+   padding: 0px;
+}
+.icons > P {
+    margin: 0px;
+   padding: 0px 20px 0px 0px; 
+}
